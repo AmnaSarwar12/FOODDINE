@@ -1,0 +1,33 @@
+.form{
+  text-align: center;
+}
+
+.button{
+  color:blue;
+}
+
+.foodinn{
+  width: 1370px;
+  height: 450px;
+}
+
+.text{
+  font-size: 100px;
+  text-align: center;
+}
+
+.burger{
+  width: 390px;
+  height: 250px
+}
+
+.appbar{
+  color:gray;
+}
+.link{
+  color: black;
+}
+
+.link1{
+  color: grey;
+}
